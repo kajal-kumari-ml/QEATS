@@ -16,3 +16,11 @@ QEats is counting on you to build all the necessary backend features to make the
 
 
 ![alt text](image.png)
+
+Objective
+Support different frontend clients with the QEats backend server.
+
+
+Focus Area
+
+![alt text](image-1.png)
